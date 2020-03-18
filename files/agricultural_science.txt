@@ -1,0 +1,50 @@
+1. The data for feed consumption and weighing gain of four farm animals labelled P, Q, R and S are shown below. <br> P -50kg feed consumed and 20kg weight gained Q -90kg feed consumed and 30kg weight gained R -100kg feed consumed and 25kg weight gained S - 150kg feed consumed and 30kg weight gained. <br> Which of the following must efficient feed converter?|{'P'_'Q'_'R'_'S'}|{A}
+2. The weight of a sheep increased from 25kg to 45kg in two months. If the total consumption during the period was 60kg,determine the feed conversion ratio.|{'1:1'_'1:2'_'3:1'_'4:1'}|{C}
+3. Which of the following diseases commonly occur during brooding? I. yolk sac infection II. coccidiosis III. fowlpox IV. pullorum|{'I,II and III only'_'I,II and IV only'_'I,III and IV only'_'I,II,III and IV'}|{B}
+4. Piglet anaemia can be controlled by using|{'sulphur drugs'_'iron drugs'_'anthelmintics'_'antibiotics'}|{B}
+5. Sexual maturity in farm animal is not influenced by their|{'breed'_'liver'_'nutrition'_'weaning age'}|{B}
+6. A sow that is not producing milk after farrowing should be given|{'oxytocin'_'antibiotic'_'anthelmintric drug'_'sulphaquinoxaline'}|{A}
+7. In preparing for parturition of a sow,warmth should be provided to|{'promote growth of hair of the young'_'make the young suckle colostrum'_'prevent anaemia in the young'_'prevent chilling of the young'}|{D}
+8. The device which would help to stabilize heat in an incubator is the|{'thermometer'_'hygrometer'_'barometer'_'thermostat'}|{D}
+9. In animal production, newly-born rabbits are called|{'bunnies'_'kids'_'poults'_'lambs'}|{A}
+10. If the recommended spacing for a tree crop is 2.5cm by 4.0m.determine the number of seedlings required to plant a 2 hectare farmland.|{'1,000'_'2,000'_'10,000'_'20,000'}|{B}
+11. Close to the time of harvesting of cotton, sunshine is needed to ensure the production of boils that are|{'big'_'light'_'not mouldy'_'not open'}|{C}
+12. If T represents the gene for tallness while t represents dwarfness. When a tall (TT) crop is crossed with a dwarf (tt) crop, the resultant crop will be|{'100% dwarf'_'100% tall'_'50% tall and 50% dwarf'_'75% tall and 25% dwarf'}|{B}
+13. If T represents the gene for tallness while t represents dwarfness. The genotypic ratio of the second filial generation will be|{'3:1'_'1:2:1'_'2:2'_'4:0'}|{B}
+14. The correct sequence of feed utilization in farm animals is|{'digestion-ingestion-absorption-assimilation'_'ingestion-digestion-assimilation-absorption'_'ngestion-digestion-assimilation'_'digestion-assimilation-ingestion-absorption'}|{C}
+15. The forest management system which involves the planting of both food crops and forest trees on the same piece of land at the same time is known as|{'selective exploitation'_'taungya'_'regeneration'_'afforestation'}|{B}
+16. Pineapple is widely propagated using|{'seeds'_'suckers'_'slips'_'cuttings'}|{D}
+17. Which of the following crops has a fibrous root system?|{'cotton'_'coffee'_'cowpea'_'sugarcane'}|{D}
+18. The process of grafting in crop production involves|{'the fusion of gametes of two crops'_'indicating rooting from stems'_'the trandfer of a bud from one crop to another'_'the joining of two parts from related crops'}|{D}
+19. Crop rotation decreases the incidence of pests by|{'breaking life cycles of pests'_'attracting pest predators'_'sterilizing the soil'_'maintaining soil fertility'}|{A}
+20. In crop production, ginger is propagated by|{'seed'_'bulb'_'rhizome'_'corm'}|{C}
+21. A regulatory control of diseases in crop production is|{'rouging'_'quarantine'_'crop rotation'_'soil tillage'}|{B}
+22. Yellow colouration of the lower leave of a growing maize plant may be due to deficiency in|{'potassium'_'phosphorus'_'zinc'_'nitrogen'}|{D}
+23. Which of the following insects transmits swollen shoot disease of cocoa?|{'stem borer'_'mealybug'_'whitefly'_'scale insect'}|{B}
+24. The main objectives of establishing forest in the arid regions is to|{'check desert enroachment'_'provide firewood for cooking'_'provide bush meat'_'improve the beauty of the environment'}|{A}
+25. Limitations of farm mechanization in West Africa do not include|{'land fragmentation'_'high capital investment'_'availability of spare parts'_'high level technical know-how'}|{A}
+26. The use of animal traction is limited in the forest zones of West Africa because of the|{'topography of the forest land'_'presence of tsetseflies'_'high amount of rainfall'_'culture of the people'}|{B}
+27. The correct sequence for the use of coupled implements for land preparation is|{'plough,horrow and ridger'_'harrow,ridger and plough'_'plough,ridger and harrow'_'harrow,plough and ridger'}|{A}
+28. Tomatoes are staked in order to|{'accelerate their growth'_'induce flowering'_'accelerate fruit ripening'_'prevent rotting of fruits'}|{D}
+29. Which of the following groups of rocks is formed as a result of volcanic eruption?|{'lomestone,basalt and shale'_'basalt,granite and pumice'_'sandstone,granite and quartzite'_'marble,gneiss and shale'}|{B}
+30. The following are advantages of sub-surface irrigation except that |{'it is suitable for soils with low water holding capacity'_'it can be used only for specific types of crops'_'the rate of evaporation is greatly reduced'_'it reduces the incidence of pests'}|{B}
+31. Which of the following statement is a disadvantage of human power? it |{'controls other sources of farm power'_'brings about least damage'_'is easily available and controlled'_'has low output'}|{D}
+32. The instrument which enables a surveyor to find the direction of a base line is |{'abney level'_'ranging pole'_'plumb bob'_'magnetic compass'}|{D}
+33. Which of the following statements is correct about micro-nutrients? They |{'promote formation of only root nodules'_'are required by plants in very small quantities'_'are fixed into the soil through microbial activity'_'increase crop tolerance to pest attack'}|{B}
+34. Which of the following properties of soil determines its water-holding capacity? I. Texture II. pH III. Colour IV. Structure |{'I and II only'_'I and IV only'_'II and III only'_'III and IV only'}|{B}
+35. Which of the following statements about soil organisms is false? |{'soil pH will attack population of soil organisms'_'population of soil living organisms is increased with increase in soil organic matter'_'soil with good texture and structure cannot harbour soil microbes'_'soil temperature affects the activities of soil organisms'}|{C}
+36. A detrimental effect of bush burning is that it |{'destroys soil organic matter'_'destroys weed seeds'_'sterilizes the soil'_'adds potash to the soil'}|{A}
+37. The following crops will enrich the soil with nitrates except |{'calopogonium'_'pueraria'_'centrosema'_'exoriepus'}|{D}
+38. Which of the following factors does not influence the distribution of cattle in West Africa? |{'pastures'_'light'_'diseases'_'rainfall'}|{B}
+39. Poaching is prohibited in game reserves to |{'reduce wildlife population'_'conserve wildlife'_'starve hunters'_'protect hunters from wild animals'}|{B}
+40. Soil water that is available for root absorption at field capacity is |{'capillary water'_'hygroscopic water'_'gravitational water'_'superfluous water'}|{A}
+41. Which of the following factors are causes of deforestation in West Africa? I. expansion of cultivated land II. high population growth rate III. conservation of wildlife in game reserves IV. urban growth |{'I,II and III only'_'II,III and IV only'_'I,II and IV only'_'I,II,III and IV'}|{C}
+42. Agriculture contributes to the economy of West African Countries through the following means except |{'reduction of poverty through job creation'_'supply of armaments for territorial defence'_'provision of foreign exchange'_'supply of raw materials to industries'}|{B}
+43. Which of the following statements about agricultural development is true? It leads to I. increased processing of produce II. increased food production III. high productivity IV. increased agricultural labour force |{'I, II and III only'_'I,II and IV only'_'I,III and IV only'_'II,III and IV only'}|{A}
+44. Under the commercial land tenure system, farmers find it difficult to secure loans because |{'land holdings are small and fragmented'_'they are poor'_'land holdings cannot be used as security'_'they are mostly illiterates'}|{C}
+45. Government plays important role in the development of agriculture through the following means except |{'provision of subsidies'_'training of farmers children'_'establishment of agricultural development programmes'_'establishment of farm settglements'}|{A}
+46. Corms, rhizomes and tubers are examples of |{'underground stems'_'underground roots'_'modified leaves'_'earial stems'}|{A}
+47. In which layer of the soil profile does most biological activity occur? |{'parent material'_'D-horizon'_'C-horizon'_'A-horizon'}|{D}
+48. The storage facility that is not suitable for grains.|{'silos'_'rumbus'_'barns'_'sacs'}|{C}
+49. In biotechnology, propagation is mainly by|{'grafting'_'aerial layering'_'binary fission'_'cell culture.'}|{D}
+50. Which of the following routine maintenance in a tractor is necessary on daily basis?|{'Draining of the gear box oil.'_'Removing and cleaning of engines air filter'_'Replacing of the fuel filter element.'_'Checking of the oil level in the engine'}|{D}

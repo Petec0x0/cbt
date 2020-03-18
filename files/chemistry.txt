@@ -1,0 +1,50 @@
+1. Reduction of alkanones with LiAlH<sub>4</sub> produces?|{'primary alkanols'_'secondary alkanols'_'tertiary alkanols'_'polyhydric alkanols'}|{B}
+2. The product obtained when a mixture of benzene vapour and hydrogen are passed over nickel catalyst at 180°C is?|{'cyclohexane'_'cyclopentane'_'n-hexane'_'n-pentane'}|{A}
+3. Polyvinyl chloride is used in the production of?|{'glass'_'alloy'_'pipes'_'ceramics'}|{C}
+4. Detergents are manufactured with straight hydrocarbon chains so as to make them?|{'soluble'_'biodegradable'_'cheaper'_'foamy'}|{B}
+5. A mixture of sugar and sulphur can be separated by?|{'dissolution in water, evapouration and filtration'_'filtration, evaporation and dissolution in water'_'dissolution in water, filtration and evaporation'_'evaporation, dissolution in water and filtration'}|{C}
+6. Which of the following is a physical change?|{'Freezing ice cream'_'dissolving calcium in water'_'burning kerosene'_'Exposing white phosphorus to air'}|{A}
+7. The percentage of water of crystallization in ZnSO<sub>4</sub>.7H<sub>2</sub>O is?[Zn = 65, S = 32, O = 1, H = 1]|{'33%'_'44%'_'55%'_'87%'}|{B}
+8. 0.0075 mole of calcium trioxocarbonate (IV) is added to 0.015 mole of a solution of hydrochloric acid. The volume of gas evolved at s.t.p is?[Molar volume of a gas at s.t.p = 22.4 dm3]|{'224cm3'_'168cm3'_'112cm3'_'100cm3'}|{B}
+9. A gas exerts pressure on its container because?|{'the molecules of a gas collide with the walls of the container'_'some of the molecules are moving faster than others'_'of the collisions of the molecules with each other'_'of the mass of the molecules of the gas'}|{A}
+10. The basic assumption in the kinetic theory of gases that the collisions of the gaseous molecules are perfectly elastic implies that the|{'forces of attraction and repulsion are in equilibrium'_'gaseous molecules can occupy any available space'_'gaseous molecules will continue their motion indefinitely'_'gases can be compressed'}|{C}
+11. If an element X has an atomic mass of 23 and an atomic number of 11, which of the following deductions is correct?|{'it contains 12 protons'_'It forms a covalent chloride.'_'Its atomic number is 23.'_'It is an alkali metal.'}|{D}
+12. Cathode rays causes an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays|{'are positively charged'_'are negatively changed'_'have mass'_'travel in straight lines'}|{D}
+13. Which quantum number divides shells into orbitals?|{'principal'_'Azimuthal'_'Magnetic'_'Spin'}|{B}
+14. The type of bonding in {Cu(NH3)4}2+ is?|{'coordinate'_'electrovalent'_'metallic'_'covalent'}|{A}
+15. The mixture of gases used in a photographer's flash tube is?|{'argon and krypton'_'krypton and xenon'_'helium and argon'_'argon and xenon'}|{B}
+16. When sodium trioxocarbonate (IV) decahydrate loses its water of crystallization to the atmosphere, the process is|{'deliquesence'_'effloresence'_'hygroscopic'_'effervesence'}|{B}
+17. Water can be obtained as the only product during the?|{'combustion of hydrocarbons'_'neutraliization of an acid by base'_'combustion of hydrogen'_'electrolysis of brine'}|{C}
+18. If 10.5g of lead (II) trioxonitrate (V) is dissolved in 20cm3 of distilled water at 18°C, the solubility of the solute in mol dm-3 is?[Pb = 207, N = 14, O = 16]|{'1.60'_'5.25'_'16.00'_'525.00'}|{A}
+19. For a given solute, the concentration of its saturated solution in different solvents are?|{'the same at the same temperature'_'different at the same temperature'_'the same at different temperature'_'constant'}|{B}
+20. The major source of oxides of nitrogen is from the burning of?|{'coal'_'wood'_'fuel'_'chlrofluorocarbons'}|{C}
+21. The acid used in electrolysis of water is dilute?|{'HNO<sub>3</sub>'_'CH<sub>3</sub>COOH'_'H<sub>2</sub>SO4'_'HCl'}|{C}
+22. What volume of 1.5M solution of KOH would contain 0.045 moles?|{'67.50 cm3'_'30.00 cm3'_'6.75 cm3'_'3.00 cm3'}|{B}
+23. The salt formed from a reaction between citric acid and sodium hydroxide in solution will be?|{'acidic'_'basic'_'complex'_'neutral'}|{B}
+24. The colour changes observed when testing for reducing agents using acidified potassium heptaoxodichromate (IV) solution is?|{'yellow to purple'_'orange to green'_'green to orange'_'purple to yellow'}|{B}
+25. The oxidation state of Cr in K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> is?|{'+7'_'+6'_'+5'_'4'}|{B}
+26. Which of the following metals is purified commercially by electrolysis?|{'Zn'_'Fe'_'Sn'_'Cu'}|{D}
+27. What current will deposit 3.25g of zinc in 2hrs? [Zn = 65, F = 96500 C mol-1]|{'3.25A'_'2.00A'_'1.34A'_'0.67A'}|{C}
+28. C(s) + H<sub>2</sub>O(g) → H<sub>2</sub>(g) + CO<sub>2</sub>(g) ΔG for the reaction above at 1300k is -43KJ. At this temperature, the reaction is?|{'not feasible'_'at equilibrum'_'feasible'_'exothermic'}|{C}
+29. Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth-to-mouth to each other at room temperature. The entropy in the mixture of gases is likely to?|{'remain unchanged'_'increase'_'decrease'_'change'}|{B}
+30. <img src='files/images/chemistry30.jpg' height='200'> In the diagram above, which of the curves represents the evolution of oxygen with time in the equation 2KClO<sub>3</sub>(s) → 2KCl(s) + 3O<sub>2</sub>(g)?|{'X'_'Y'_'Z'_'R'}|{C}
+31. A catalyst increase the rate of a chemical reaction by providing a path that?|{'raise the activation energy'_'increase the temperature'_'lowers the activation energy'_'increase the concentration'}|{C}
+32. CuO(s) + H<sub>2</sub>(g) ↔ Cu(s) + H<sub>2</sub>O(l).What is the effect of increasing the pressure on the equilibrium reaction above?|{'The equilibrium is shifted to the left'_'The equilibrium is shifted to the right'_'There is no effect'_'More H<sub>2</sub>(g) is produced'}|{B}
+33. The equilibrium of an endothermic reaction which proceeds with an increase in volume can be shifted in the reverse direction by?|{'increasing the temperature and decreasing the pressure'_'increasing the pressure and increasing the temperature'_'decreasing the temperature and increasing the pressure'_'decreasing the pressure and decreasing the temperature'}|{C}
+34. The oxidation of ammonia in excess air produces?|{'NO'_'N<sub>2</sub>O'_'NO<sub>2</sub>'_'N<sub>2</sub>O<sub>4</sub>'}|{A}
+35. Hydrogen sulphide gas can act as?|{'an oxidizing agent'_'a dehydrating agent'_'a bleaching agent'_'a reducing agent'}|{D}
+36. The gasification of coke is used for the manufacturing of?|{'producer gas'_'natural gas'_'synthetic gas'_'industrial gas'}|{C}
+37. The gas that is most useful in protecting humans against solar radiation is?|{'chlorine'_'ozone'_'carbon(IV) oxide'_'hydrogen sulphide'}|{B}
+38. Which of the following allotrope of carbon is a constituent of a lead pencil?|{'Graphite'_'Diamond'_'Lampblack'_'Soot'}|{A}
+39. Which of the following metals will show the highest metallic character?|{'Zinc'_'Copper'_'Barium'_'Calcium'}|{D}
+40. Copper metal dissolves in concentrated trioxonitrate (V) acid with the resultant evolution of?|{' CO<sub>2</sub>'_'SO<sub>2</sub>'_'NO<sub>2</sub>'_'CO'}|{C}
+41. The type of iron that is best suited for welding, making nails, chains and iron rods is?|{'pig iron'_'wrought iron'_'cast iron'_'iron pyrites'}|{B}
+42. In the electrolytic extraction of aluminum, the function of the molten cryolite is to?|{'precipitate aluminium hdroxide'_'lower the melting point of aluminium oxide'_'act as raw materials'_'act as a solvent'}|{B}
+43. One of the products of the thermal decomposition of sodium trioxonitrate (V) is?|{'sodium'_'nitrogen'_'sodium dioxonitrate (III)'_'sodium oxide'}|{C}
+44. A cracking process in petroleum refining can be represented by?|{'heptane to heptene'_'heptane to 3-methylhexane'_'heptane to propene and butane'_'heptane to 2,3,3-trimethybutane'}|{3}
+45. Which of the following molecules has two other positional isomers?|{'CH<sub>3</sub>CH<sub>2</sub>Br'_'CH<sub>3</sub>CHBrCH<sub>3</sub>'_'CBr<sub>2</sub>F<sub>2</sub>'_'CH<sub>2</sub>CHBrCH<sub>2</sub>Br'}|{D}
+46. Which of the following class of compounds can exist as dipolar ions in solution?|{'Alkanoic acid'_'Fatty acids'_'Dialkanoic acids'_'Amino acids'}|{D}
+47. Lucas reagent is used to test for?|{'alkanes'_'alkanoic acids'_'alkanols'_'amines'}|{C}
+48. A compound commonly used for sterilization and preservation of specimens and food is?|{'ethanol'_'benzene'_'ether'_'ammonia'}|{A}
+49. An organic compound reacted with bromine water to give a colourless solution. The compound is probably an?|{'alkene'_'alkanal'_'alkyne'_'alkanone'}|{C}
+50. Which of the following hydrocarbons is mainly used as fuel?|{'methylene'_'ethylene'_'methane'_'ethyne'}|{C}

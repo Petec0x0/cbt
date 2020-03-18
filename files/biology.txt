@@ -1,0 +1,50 @@
+1. Which of the following food substances is digested in the stomach?|{'Carbohydrate'_'Fats and oil'_'Fats and proteins'_'Proteins'_'Carbohydrates and fats'}|{D}
+2. The conversion of excess amino acids into urea occurs in the|{'kidney'_'pancreas'_'villi'_'liver'_'spleen'}|{D}
+3. For pollination and fruit formation, the essential part(s) of the flower should be the?|{'corolla'_'ovary'_'pistil (gynoecium)'_'ovules'_'receptacle'}|{C}
+4. Which one of the following parts of the mammalian body is most closely associated with the production of urine?|{'Malpighian capsule'_'Urinary bladder'_'Ureter'_'Vas deferens'_'Urethra'}|{A}
+5. A potometer is used to determine the rate at which a shoot|{'respires'_'sucks air bubbles'_'loses weight'_'transpires'}|{D}
+6. A green plant growing in a compost pit is feeding?|{'holozoically'_'parasitically'_'saprophytically'_'holophytically'_'in none of the above ways'}|{D}
+7. The part of the cell solely responsible for respiration is the?|{'nucleus'_'nucleolus'_'mitochondria'_'golgi apparatus'_'endoplasmic reticulum'}|{C}
+8. In anaerobic respiration, glucose is converted to one of the following?|{'Carbon dioxide and water'_'Carbon dioxide only'_'Carbon dioxide and alcohol'_'Alcohol and water'_'water and acetic acid'}|{C}
+9. During excretion of urea there is also a corresponding re-absorption of water into the blood. This re-absorption takes place in the|{'uriniferous tubules'_'Bowman's capsule'_'glomerulus'_'malpighian capsule'_'renal artery'}|{A}
+10. If the bark and phloem tissue of a woody shoot are peeled off by ringing, the whole plant will eventually die because?|{'water does not reach the leaves'_'water and salts remained below the ring portion'_'there is a withdrawal of water from the root by soil'_'manufactured food does not reach the roots'_'the roots store too much water'}|{D}
+11. The filament of spirogyra were put into equal volumes of sugar solutions X and Y. After 5 minutes, filaments from solution X had their cells contents rounded up while those from Y were unaffected. The experiment shows that?|{'solution X was stronger than Y'_'solution Y was stronger than X'_'Spirogyra used up the sugar in solution X'_'solution X is good for stimulating sexual reproduction in Spirogyra'_'solution Y was less contaminated than X'}|{A}
+12. Which part of the human brain is concerned with reflexes controlling the rate of heart beat and breathing?|{'Medulla'_'cerebrum'_'cerebellum'_'Pineal body'_'Olfactory lobe'}|{A}
+13. Which of the following hormones is produced during fright or when agitated?|{'Insulin'_'Adrenaline'_'Thyroxine'_'Pituitrin'_'Progesterone'}|{B}
+14. The following are connected with the movement of a reflex action (1) Central Nervous, (2) Muscles, (3) Skin, (4) Sensory Nerve, (5) Motor Nerve. Which of the following sequences indicates a correct path?|{'1 → 2 → 3 → 4 → 5'_'2 → 1 → 4 → 5 → 3'_'3 → 4 → 1 → 2 → 5'_'3 → 4 → 1 → 5 → 2'}|{D}
+15. Biconcave lenses are used in the correction of an eye defect called?|{'myopia'_'colour blindness'_'old age'_'hypermetropia'_'weakening of ciliary muscles'}|{A}
+16. The center which controls respiratory activities in the mammalian brain is the?|{'cerebrum'_'olfactory lobe'_'pituitary organ'_'medulla'}|{D}
+17. A student trying to find out the order in which organisms appear on a cleared plot is studying one of the following?|{'Ecosystem'_'Food web'_'Food web'_'Succession'_'Community'}|{D}
+18. An organism X lives entirely on the waste products in another organism Y. In this association X is a?|{'symbiont'_'commensal'_'saprophyte'_'parasite'_'epiphyte'}|{B}
+19. The tips of some rice seedlings were cut off while some were left intact. Both were covered with a container which had only one small hole to allow light through. After twenty-four hours it was observed that?|{'the cut tips was bent away from the light'_'the cut tips bent towards source of light'_'the intact tips bent away from the light'_'the intact tips bent towards the light'_'both tips bent away from light'}|{D}
+20. If three 30 cm lengths of glass tubes are tightly packed with clay, sand and loamy soils respectively and then stood in a beaker of water for one week, the level of water will be?|{'lowest in the tube with clay'_'the same in all tubes'_'lowest in the tube with loamy soil'_'lowest in the tube with sandy soil'}|{D}
+21. If a baby is a female, her mother's ovum must have been fertilized by a sperm carry the chromosome?|{'X'_'XY'_'XX'_'YY'_'Y'}|{A}
+22. Leguminous plants, e.g Mucana, are usually planted in cultivated farmlands because they?|{'enrich the soil with phoshates'_'provide animals with food'_'enrich the soil with organic nitrogen'_'protect the soil from being over-heated'_'protect the micro organisms in the soil'}|{C}
+23. During thunderstorms the energy of lightning discharge causes?|{'oxygen and nitrogen to combine'_'more carbon dioxide to be formed'_'nitrites to be converted to nitrates'_'more carbon dioxide to be formed'_'oxygen and nitrogen to combine'}|{A}
+24. A few grams of dried soil were first heated until red hot and then further heated until no more smoke was released. This experiment was to determine?|{'amount of water in soil'_'percentage of water in soil'_'presence of humus in soil'_'resistance of laterities to heat'_'release of smoke from the soil'}|{C}
+25. Oxygen from the atmosphere reaches the mammalian blood stream through one of the path indicated below. Indicate the correct path, a = mouth, b = trachea, c = bronchiole, d = nostril, e = bronchus, f = alveoli|{'a → b → e → f → d'_'b → d → f → e → c'_'d → b → e → c → f'_'b → a → f → e → c'_'f → e → c → d → c '}|{C}
+26. Below are some group of diseases. Which group of diseases is caused by bacteria?|{'Tuberculosis, smallpox'_'Gonorrhoea, measles'_'Tuberculosis, polio'_'Syphilis, gonorrhoea'}|{D}
+27. A mosquito which produces eggs which float, and whose larvae lie horizontal to the water surface, also rests at the angle on a vertical surface. This type of mosquito is?|{'Aedes'_'Anopheles'_'Culex'_'Tiger mosquito'_'none of the above'}|{B}
+28. The amount of water loss from a leaf can be detected using?|{'lime-water'_'red litmus paper'_'blue litmus'_'blue cobalt chloride paper'_'pink cobalt chloride paper'}|{D}
+29. In animals, cilia, flagella, pseudopodia and chaetae, can be used for?|{'reproduction'_'fighting'_'attachment to plants'_'locomotion'_'locating sensation'}|{D}
+30. Which of the following is NOT true of wind-pollinated flowers?|{'A large amount of pollen produced'_'Light smooth pollen grains'_'Small inconspicuous flowers'_'Scented petals'_'Large pendulous anther'}|{D}
+31. Which of the following animals is cold blooded?|{'cat'_'lizard'_'whale'_'bird'_'horse'}|{B}
+32. What is the genetic ratio of a cross between homozygous tall plant and a homozygous dwarf plant?|{'0 tall : 4 short'_'3 tall : 1 short'_'2 short : 2 tall'_'4 tall : 0 short'}|{D}
+33. Where is the food stored in yam plant?|{'stem'_'Bud'_'Adventitous root'_'Leaves'_'Tap root'}|{A}
+34. Which of the following is the dental formula of man?|{'i(2/2) c(0/1) pm(2/2) m(3/3)'_'i(2/2) c(1/1) pm(2/0) m(3/3)'_'i(2/2) c(1/1) pm(2/2) m(3/3)'_'i(2/2) c(1/1) pm(3/3) m(2/2)'_'i(2/2) c(1/1) pm(2/3) m(3/3)'}|{C}
+35. The kind of teeth used for tearing food materials is the?|{'fang'_'canine'_'premolar'_'carnassial'_'incisor'}|{B}
+36. Which of the following insects has an incomplete metamorphosis during its life circle?|{'Butterfly'_'Bee'_'Mosquito'_'Grasshopper'}|{D}
+37. The mushroom is an organism which feeds?|{'parasitically'_'saprophytically'_'holozoically'_'symbiotically'_'autotrophically'}|{B}
+38. What is the function of the contractile vacuole in paramecium?|{'Produces enzymes'_'Gets rid of excreta'_'Stores and digest food'_'Gets rid of excess water'_'Controls movement'}|{D}
+39. Choose the sequence which represents the correct order of organisms in a food chain.|{'Grass, snake, toad, grasshopper, hawk'_'Grass, grasshopper, toad, snake, hawk'_'Grass, grasshopper, snake, toad, hawk'_'Grass, snake, grasshopper, toad, hawk'_'Grass, toad, snake, grasshopper, hawk'}|{B}
+40. Which of the following is NOT a function of the liver?|{'Regulation of blood sugar'_'Storage of iron'_'Formation of bile'_'Excretion of urea from the blood'}|{D}
+41. Spirogyra reproduces vegetatively by?|{'spore production'_'fragmentation'_'multiple fission'_'budding'_'binary fission'}|{B}
+42. Which of the following instruments is used to demonstrate the response of roots and shoots to gravity?|{'Klinostat'_'Manometer'_'Porometer'_'Potometer'_'Photometer'}|{A}
+43. Milk protein is hydrolyzed by|{'renin'_'amylase'_'lipase'_'lactase'_'pepsin'}|{A}
+44. The rate of transpiration of a leafy shoot would be highest under?|{'damp, cold, still air'_'damp, warm, moving air'_'dry, warm, moving air'_'dry, cold, moving air'_'dry, warm, still air'}|{C}
+45. What is name of the respiratory organ of the crab?|{'Tubules'_'Trachea'_'Spiracles'_'Gills'}|{D}
+46. The two types of human tapeworm can be distinguished by the presence or absence of?|{'scloex'_'hook'_'head'_'sucker'_'progolottis'}|{B}
+47. All the following are digestive enzymes except?|{'bile'_'lipase'_'maltase'_'pepsin'_'ptyalin'}|{A}
+48. In a bakery, yeast is added to flour to make bread rise. This is possible because yeast produces?|{'alcohol'_'oxygen'_'caron dioxide'_'energy'_'ethanol'}|{C}
+49. Accommodation of the human eye is best described as the?|{'ability to see distant objects'_'movement of upper and lower eyelids'_'focusing of near and distant objects'_'changing of lens shape due to varying light intensities'_'constant adjustment of the iris'}|{C}
+50. Normally any character shown by an organism is due to the effects of?|{'hormones and chromosomes'_'chromosomes'_'mutation'_'genes and environment'}|{D}

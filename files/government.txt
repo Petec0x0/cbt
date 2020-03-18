@@ -1,0 +1,50 @@
+1. A major opposition party at the national level in Nigeria's Second Republic was?|{'NNP'_'UPN'_'PRP'_'GNPP'_'NUN'}|{B}
+2. The judicial order requiring a detained person to be brought before a judge is the writ of|{'Habeas corpus'_'Mandamus'_'Prohibition'_'Certiorari'}|{A}
+3. During the 1964 Federal Election in Nigeria, the United Progressive Grand Alliance comprised the?|{'NNDP, NPC and NDC'_'NPC, UMBC and BYM'_'UMBC, AG, NEPU and NCNC'_'UMBC, BYM, NEPU and NPC'_'None of the above'}|{C}
+4. Which of the following binds Commonwealth Nations together?|{'Uniform Political System'_'Common Currency'_'Common Language'_'Common Political History'_'None of the above'}|{D}
+5. A structure of government in which power is shared between the centre and the units is?|{'confederal'_'oligarchic'_'unitary'_'federalism'_'None of the above'}|{D}
+6. Which of the following performs oversight functions?|{'Judiciary'_'Civil service'_'Executive'_'Bureaucracy'_'None of the above'}|{C}
+7. Foriegn policy refers to?|{'a policy made by a country when it is at war'_'the general principles of a states international behaviour'_'a policy made by a foreign country'_'a policy made by a country for foreigners'_'none of the above'}|{B}
+8. 'From each according to his ability to each according to his needs' is the principle of?|{'Communism'_'Socialism'_'Capitalism'_'Communalism'_'None of the above'}|{A}
+9. The maintenance of law and order is a function of the?|{'legistlature'_'military'_'judiciary'_'executive'_'none of the above'}|{D}
+10. The development of attitudes and beliefs about a political system is known as?|{'political orientation'_'political apathy'_'political culture'_'political socialization'_'None of the above'}|{D}
+11. A nation could be identified through its?|{'military strength'_'common language and culture'_'population'_'costitution'_'None of the above'}|{B}
+12. A network of groups of people in an institution expressing human association is?|{'community'_'society'_'nation'_'state'_'none of the above'}|{B}
+13. The Commission on Mediation, Conciliation and Arbitration is an organ of?|{'The United Nations'_'Common Wealth'_'Organanization of Petroleum Exporting Countries'_'African Union'_'None of the above'}|{D}
+14. The policy of assimilation was the colonial policy of the?|{'French'_'British'_'Portuguese'_'German'_'NOne of the above'}|{A}
+15. The appointment, promotion and discipline of civil servants is the responsibility of the?|{'Civil Service Commission'_'Public Complaints Commission'_'Judicial Service Commission'_'Public Service Institute of Nigeria'_'None of the above'}|{A}
+16. A country is said to operate an unwritten constitution if the?|{'constitution is not contained in a single document'_'constitution cannot be written down'_'existing constitution can be suspended at will'_'country is not having a printed constitution'_'none of the above'}|{A}
+17. The form of government headed by a king is?|{'monarchy'_'preidentialism'_'fascism'_'republicanism'_'none of the above'}|{A}
+18. Citizens exercise their sovereignty by?|{'attending political rallies'_'voting at elections'_'registration to vote'_'their right to sue the state'_'none of the above'}|{B}
+19. Citizens exercise their sovereignty by?|{'attending political rallies'_'voting at elections'_'registration to vote'_'their right to sue the state'_'none of the above'}|{B}
+20. Which of these is an attribute of government?|{'Poltitcal power'_'Sovereignty'_'Constitution'_'Define territory'_'none of the above'}|{A}
+21. Nigerian Judiciary is headed by?|{'Attorney-General and Minister of Justice'_'Solicitor-General of the Federation'_'Chief Justice of the Federation'_'President, Court of Appeal'_'none of the above'}|{C}
+22. The modern theory of sovereignty was popularized by?|{'John locke'_'Thomas Hobbes'_'Jean Bodin'_'Baron De Montesquieu'_'None of the above'}|{C}
+23. Public opinion is commonly referred to as the composite reaction of the citizenry on?|{'matters relating to association'_'legal rights of foreigners'_'matters affecting government'_'key issues that affect them'_'None of the above'}|{D}
+24. In order to assist fellow developing countries, Nigeria initiated the?|{'New Partnership for African Development'_'Economic Community of West African States'_'Concept of Medium Powers'_'Technical Aid Corps Scheme'_'None of the above'}|{D}
+25. In the Igbo traditional system, the highest democratic institution is the?|{'Umunna'_'Oha-na-eze'_'Umuada'_'Ofo title holders'_'none of the above'}|{B}
+26. Separation of powers as an ingredient of the presidential system implies the?|{'distinction of governmental powers'_'demarcation of levels of government'_'distinction between head of state and head of government'_'sharing of governmental powers.'_'none of the above'}|{D}
+27. The major objective of pressure group is to?|{'change government'_'form government'_'influence government'_'fund government'_'none of the above'}|{C}
+28. The foreign policy principle that informed Nigeria's position in the liberation of African states is?|{'economic diplomacy'_'Afrocentrism'_'non-alignment'_'non-interference'_'none of the above'}|{B}
+29. A type of political association that brings the rich and the poor together is?|{'Broker party'_'Charismatic party'_'Elite party'_'mass party'_'none of the above'}|{A}
+30. In Nigeria, the foundations of federalism was laid by the?|{'Macpherson Constitution'_'Lyttleton Constitution'_' Clifford Constitution'_'Richards Constitution'_'none of the above'}|{D}
+31. Which of the following is a form of delegated legislation?|{'case law'_'convention'_'edict'_'acts'_'none of the above'}|{C}
+32. Franchise can be described as the right to|{'vote at elections'_'form political parties'_'vote and be voted for'_'contest in elections'_'none of the above'}|{C}
+33. The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of?|{'the office of sole administrators'_'caretaker management committees'_'uniformity in struture and functions'_'the third tier of government.'_'none of the above'}|{C}
+34. The Murtala/Obasanjo regime in Nigeria increased the number of states from?|{'4 to 12'_'12 to 19'_'19 to 20'_'30 to 36'_'none of the above'}|{B}
+35. The major factor influenced the formulation of Nigerian foreign policy in the First Republic was?|{'geographical location'_'the colonial legacy'_'economic consideration'_'the parliamentary system'_'none of the above'}|{C}
+36. The Barclay's Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970's for transacting business with?|{'France'_'South Africa'_'Portugal'_'Libya'_'none of the above'}|{B}
+37. South-South cooperation is a major policy plan on which Nigeria bases her relations with?|{'developed countries'_'countries of the southern hemisphere'_'developing countries'_'member countries of OAU'_'none of the above'}|{C}
+38. Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under?|{'General Yakubu Gowon'_'General Murtala Mohammed'_'General Muhammadu Buhari'_'General Ibrahim Babangida'_'none of  the above'}|{B}
+39. The first Nigerian Permanent Representative to the United Nations was?|{'Alhaji Yusuf Maitama Sule'_'General Joseph Garba'_'Professor Ibrahim Gambari'_'Cheif Samuel Adebo'_'none of the above'}|{B}
+40. In 1981,Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan forces in?|{'Somalia'_'Chad'_'Ethopia'_'Zaire'_'none of the above'}|{B}
+41. During the Civil War, the major power that expressed moral support for Biafra's self-determination was?|{'France'_'China'_'the United States'_'Great Britain'_'none of the above'}|{A}
+42. Nigeria's withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British?|{'support for UNITA rebels in Angola'_'supply of arms to Rhodesia'_'failure to impose sanctions on South Africa'_'negative utterances on Nigeria'_'none of the above'}|{C}
+43. The major demand of the Third World countries on the United Nations in recent times is the?|{'expansion of the permanent membership of the security Council'_'post of the Secretary-General of the organization'_'withdrawal of the veto power from the security council'_'enforcement of resolutions on the super powers'_'none of the above'}|{A}
+44. Which of the following is the function of the Council of the Ministers of the O.A.U?|{'Cordinating of the general policy of the organization'_'Directing the finances of the organization'_'Preparing the agenda of the organization's meetings'_'Reviewing the functions and activities of other organs of the organizations'_'none of the above'}|{C}
+45. The Economic Community of West African States has made progress in the area of?|{'free movement of persons and right of residence'_'increased trade among members'_'political integretion of the region'_'providing financial aid to members'_'none of the above'}|{B}
+46. A major consequence of proportional representation is that it?|{'reduces the chances of political instability'_'favours the development of a two-party system'_'discourages voting along ethnic lines'_'encourages the proliferation of parties'_'none of the above'}|{D}
+47. Oligarchy is a form of government which?|{'enhances the interest of the ruling few'_'enhances the electoral chances of the majority'_'disregards the views of the minority'_'protects the interest of the common people'_'none of the above'}|{A}
+48. The absence of the rule of law in government will bring about?|{'humans rights abuse'_'treasonable offences'_'corrupt practices'_'political apathy'_'none of the above'}|{A}
+49. Centralization of power is the basic feature of?|{'federalism'_'a confederation'_'a presidential system'_'a unitary government'_'none of the above'}|{D}
+50. A law passed by the legislature and assented by the executive is?|{'an act'_'a presidential proclamation'_'a decree'_'a legislative order'_'none of the above'}|{A}

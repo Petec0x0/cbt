@@ -1,0 +1,50 @@
+1. Given T = { even numbers from 1 to 12 } <br> N = {common factors of 6, 8 and 12} <br> Find T ∩ N|{'[2, 3]'_'[2, 3, 4]'_'[3, 4, 6]'_'[2]'}|{D}
+2. What is the next number in the series 2, 1, <sup>1</sup>&frasl;<sub>2</sub>, <sup>1</sup>&frasl;<sub>4</sub>... |{'<sup>1</sup>&frasl;<sub>3</sub>'_'<sup>2</sup>&frasl;<sub>8</sub>'_'<sup>3</sup>&frasl;<sub>7</sub>'_'<sup>1</sup>&frasl;<sub>8</sub>'}|{D}
+3. f U = {x : x is an integer and 1 ≤ x ≤ } <br> E<sup>1</sup> = {x: x is a multiple of 3} <br> E<sup>2</sup> = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E<sup>2</sup>|{'<sup>3</sup>&frasl;<sub>4</sub>'_'<sup>3</sup>&frasl;<sub>10</sub>'_'<sup>1</sup>&frasl;<sub>4</sub>'_'<sup>1</sup>&frasl;<sub>20</sub>'}|{A}
+4. The curved surface area of a cylinder 5cm high is 110cm<sup>2</sup>. Find the radius of its base <br> π = <sup>22</sup>&frasl;<sub>7</sub> |{'2.6cm'_'3.5cm'_'3.6cm'_'7.0cm'}|{B}
+5. If two graphs y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q|{'q - <sup>8</sup>&frasl;<sub>7</sub>'_'7 - <sup>q</sup>&frasl;<sub>4</sub>'_'8 - <sup>q</sup>&frasl;<sub>2</sub>'_'7 + <sup>q</sup>&frasl;<sub>8</sub>'}|{B}
+6. <img src='files/images/mathematics6.png' height='200'><br> Evaluate (sin45<sup>o</sup> + sin3<sup>o</sup> ) in surd form.|{'<sup>√3</sup>&frasl;<sub>2√2</sub>'_'√3 − <sup>1</sup>&frasl;<sub>2</sub>'_'<sup>1</sup>&frasl;<sub>2</sub>√2'_'1 + <sup>√2</sup>&frasl;<sub>2</sub>'}|{D}
+7. If y = x Sin x, find <sup>dy</sup>&frasl;<sub>dx</sub> when x = <sup>π</sup>&frasl;<sub>2</sub>|{'<sup>-π</sup>&frasl;<sub>2</sub>'_'-1'_'1'_'<sup>π</sup>&frasl;<sub>2</sub>'}|{C}
+8. If temperature t is directly proportional to heat h, and when t = 20<sup>o</sup>C, h = 50 J, find t when h = 60J|{'24<sup>o</sup>C'_'20<sup>o</sup>C'_'34<sup>o</sup>C'_'30<sup>o</sup>C'}|{A}
+9. Evaluate 1−(<sup>1</sup>&frasl;<sub>5</sub> × <sup>2</sup>&frasl;<sub>3</sub>)+(5 + <sup>2</sup>&frasl;<sub>3</sub>)	|{'4'_'3'_'2<sup>2</sup>&frasl;<sub>3</sub>'_'3<sup>2</sup>&frasl;<sub>3</sub>'}|{D}
+10. Given m = N<sup>√SL</sup>&frasl;<sub>T</sub> make T the subject of the formula|{'<sup>NSL</sup>&frasl;<sub>M</sub>'_'<sup>N<sup>2</sup>SL</sup>&frasl;<sub>M<sup>2</sup></sub>'_'<sup>N<sup>2</sup>SL</sup>&frasl;<sub>M</sub>'_'<sup>NSL</sup>&frasl;<sub>M<sup>2</sup></sub>'}|{B}
+11. Simplify 3<sup>n-1</sup> x 27<sup>n+1</sup>&frasl;<sub>81<sup>n</sup<</sub>|{'3<sup>2n</sup>'_'9'_'3<sup>n</sup>'_'3<sup>n+1</sup>'}|{B}
+12. The locus of a point which is equidistant from the line PQ forms a|{'circle centre P'_'pair of parallel lines each opposite to PQ'_'circle centre Q'_'perpendicular line to PQ'}|{D}
+13. <img src='files/images/mathematics13.png' height='200'><br>Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60<sup>o</sup>|{'100<sup>o</sup>'_'140<sup>o</sup>'_'120<sup>o</sup>'_'10<sup>o</sup>'}|{C}
+14. Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5|{'16'_'14'_'12'_'10'}|{A}
+15. <img src='files/images/mathematics15.png' height='200'><br> The base in which the operation was performed was|{'6'_'2'_'4'_'5'}|{B}
+16. The value of x + x ( x<sup>x</sup>) when x = 2 is|{'16'_'10'_'18'_'24'}|{B}
+17. Simplify 4√27 + 5√12 − 3√75|{'7'_'-7'_'− 7√3'_'7√3'}|{D}
+18. A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?|{'three times as much'_'the same'_'twice as much'_'half as much'}|{C}
+19. <img src='files/images/mathematics19.png' height='200'><br> In the figure, find x|{'40<sup>o</sup>'_'55<sup>o</sup>'_'50<sup>o</sup>'_'60<sup>o</sup>'}|{A}
+20. If a rod 10cm in length was measured as 10.5cm, calculate the percentage error|{'5%'_'10%'_'8%'_'7%'}|{a}
+21. <img src='files/images/mathematics21.png' height='200'><br> The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is ₦ 80 000. Find the amount allocated to fertilizer|{'₦ 35, 000'_'₦ 40,000'_'₦ 25,000'_'₦ 20,000'}|{D}
+22. y is inversely proportional to x and y and 6 when x = 7. Find the constant of the variation|{'47'_'42'_'54'_'46'}|{B}
+23. <img src='files/images/mathematics23.png' height='200'><br> In the diagram MN, PQ and RS are parallel lines. What is the value of the angle marked X?|{'123<sup>o</sup>'_'170<sup>o</sup>'_'117<sup>o</sup>'_'137<sup>o</sup>'}|{C}
+24. If m * n = [m<sub>n</sub> − n<sub>m</sub>] for m, n belong to R, evaluate − 3 * 4|{'3'_'4'_'5'_'6'}|{C}
+25. The operation * on the set R of real number is defined by x * y = 3x + 2y − 1, find 3* − 1|{'9'_'-9'_'6'_'-6'}|{C}
+26. In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?|{'4'_'8'_'16'_'20'}|{D}
+27. Find the gradient of the line joining the points (3, 2) and (1, 4).|{' 3/2'_'2/1'_'-1'_'3/2'}|{C}
+28. Find the range of the following set of numbers 0.4, −0.4, 0.3, 0.47, −0.53, 0.2 and −0.2|{'1.03'_'0.07'_'0.03'_'1.0'}|{D}
+29. What is the product of 2x2 − x + 1 and 3 − 2x|{'4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3'_'-4x<sup>3</sup> + 8x<sup>2</sup> - 5x + 3'_'-4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3'_'4x<sup>3</sup> + 8x<sup>2</sup> - 5x + 3'}|{B}
+30. Find the equation of the locus of a point P(x,y) such that PV = PW, where V = (1,1) and W = (3,5)|{'2x + 2y = 9'_'2x + 3y = 8'_'2x + y = 9'_'x + 2y = 8'}|{D}
+31. In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.|{'8'_'6'_'4'_'3'}|{B}
+32. A cylindrical tank has a capacity of 3080 m<sup>3</sup>. What is the depth of the tank if the diameter of its base is 14 m? <br> (Take pi = 22/7)|{'23m'_'25m'_'20m'_'22m'}|{C}
+33. A car dealer bought a second-hand car for ₦250,000 and spent ₦70,000 refurbishing it. He then sold the car for ₦400,000. What is the percentage gain?|{'60%'_'32%'_'25%'_'20%'}|{C}
+34. Find the principal which amounts to ₦5,500 at a simple interest in 5 years at 2% per annum.|{'₦4,900'_'₦5,000'_'₦4,700'_'₦4,800'}|{B}
+35. Factorize completely x<sup>2</sup>+2xy + y<sup>2</sup>+3x + 3y - 18|{'(x+y+6)(x+y-3)'_'(x-y-6)(x-y+3)'_'(x-y+6)(x-y-3)'_'(x+y-6)(x+y+3)'}|{A}
+36. Divide 4x<sup>3</sup>-3x+1 by 2x-1|{'2x<sup>2</sup>-x+1'_'2x<sup>2</sup>-x-1'_'2x<sup>2</sup>+x+1'_'2x<sup>2</sup>+x-1'}|{B}
+37. <img src='files/images/mathematics37.png	' height='200'><br> In the diagram MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140<sup>o</sup>, find, correct to the nearest cm, the length of the chord MN.|{'19cm'_'18cm'_'17cm'_'12cm'}|{A}
+38. Find the values of x for which <img src='files/images/mathematics38.png	' height='200'>|{'x < 8'_'x > -6'_'x < 4'_'x > -3'}|{B}
+39. <img src='files/images/mathematics39.png	' height='200'><br>|{'65'_'23'_'17'_'91'}|{C}
+40. The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is ₦7200?|{'₦1000'_'₦2000'_'₦3000'_'₦4000'}|{B}
+41. A trader realises 10x - x2 Naira profit from the sale of x bags of corn. How many bags will give him the maximum profit?|{'7'_'6'_'5'_'4'}|{C}
+42. If y = 23five + 101three, find y, leaving your answer in base two|{'1110'_'10111'_'11101'_'111100'}|{B}
+43. <img src='files/images/mathematics43.png	' height='200'><br>Find the value of x in the diagram.|{'10<sup>o</sup>'_'28<sup>o</sup>'_'36<sup>o</sup>'_'40<sup>o</sup>'}|{D}
+44. Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm|{'1920cm<sup>2</sup>'_'592cm<sup>2</sup>_'296cm<sup>2</sup>'_'148cm<sup>2</sup>'}|{B}
+45. Convert 0.04945 to two significant figures|{'0.040'_'0.049'_'0.050'_'0.49'}|{B}
+46. From a point R, 300m north of P, a man walks eastward to a place Q which is 600m from P. Find the bearing of P from Q, correct to the nearest degree|{'026<sup>o</sup>'_'045<sup>o</sup>'_'210<sup>o</sup>'_'240<sup>o</sup>'}|{D}
+47. A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?|{'N16,200'_'N14,200'_'N12,000'_'N8,000'}|{A}
+48. The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given. <br> <img src='files/images/mathematics48.png	' height='200'><br> What is the median mark?|{'1'_'2'_'3'_'4'}|{C}
+49. A boy walks 800m in 20 minutes. Calculate his average speed in km/h.|{'2.4'_'4'_'24'_'4.2'}|{A}
+50. A car uses one litre of petrol for every 14km. If one litre of petrol cost ₦63.00, how far can the car go with ₦900.00 worth of petrol?|{'420km'_'405km'_'210km'_'200km'}|{D}

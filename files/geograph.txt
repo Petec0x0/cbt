@@ -1,0 +1,50 @@
+1. <img src='files/images/geography1.png' height='400'><br> The likely occupation of the people in the area is?|{'farming'_'market gardening'_'mineral mining'_'lumbering'_'None of the above'}|{A}
+2. Which of the following is not typical submarine relief feature?|{'Roche moutonnee'_'Continental shelf'_'Deep sea plain'_'Continental slope'_'Ocean deep'}|{A}
+3. <img src='files/images/geography3.png' height='400'><br> River Yoo flows towards the|{'west'_'east'_'southwest'_'southeast'_'None of the above'}|{A}
+4. Which of the following features is of volcanic origin?|{'Sill'_'Zeugen'_'Loess'_'Gorge'}|{A}
+5. <img src='files/images/geography5.png' height='400'><br> If the map is enlarged twice, the new scale would be|{'1 : 100 000'_'1 : 125 000'_'1 : 250 000'_'1 : 50 000'_'None of the above'}|{A}
+6. The principle of a closed traverse is that?|{'the compass is read and forward bearings are taken'_'the compass is read at each point and plotted as a check'_'the compass is read at each point in turn and as a check, back bearings are taken'_' the compass is read at each point and turned back at each point'_'None of the above'}|{C}
+7. <img src='files/images/geography7.png' height='400'><br> The annual range of temperature of Delhi is?|{'15°C'_'20°C'_'19°C'_'35°C'_'None of the above'}|{B}
+8. <img src='files/images/geography8.png' height='400'><br> The climate can be described as?|{'equatorial climate'_'tropical marine climate'_'equatorial monsoon climate'_'tropical monsoon climate '_'None of the above'}|{D}
+9. The equatorial circumference of the earth is?|{'40084 km'_'30084 km'_'20084 km'_'60084 km'_'None of the above'}|{A}
+10. Which of the following rocks if suitable for the construction of roads and building purposes?|{'Limestone'_'Basalt'_'Granite'_'Graphite'_'None of the above'}|{C}
+11. Mountains formed as a result of compressional forces are known as?|{'Block mountains'_'Residual Mountains'_'Fold mountains'_'Volcanic'_'None of the above'}|{C}
+12. <img src='files/images/geography12.png' height='400'><br> The features marked X is|{'a plunge pool'_'a waterfall'_'an eroded debris'_'a bedrock'_'None of the above'}|{A}
+13. The Mediterranean sea has higher salinity than the oceans because|{'of dead animal fossils'_'the surrounding soils are salty'_'there is low rainfall in the region'_'the area has high temperature'_'None of the above'}|{C}
+14. <img src='files/images/geography14.png' height='400'><br> The feature marked Q is?|{'parent material'_'hard rock'_'erratic rock'_'soft rock'_'None of the above'}|{B}
+15. Sun-dial is used for recording the?|{'duration of sunshine in a place '_'amount of sunshine in a place'_'position of the sun in a place'_'intensity of sunshine within a period of time'_'None of the above'}|{A}
+16. The actual amount of water vapour present in the air which is expressed in grams per cubic metre is?|{'relaitve humdidty'_'relative humidity'_'absolute humidity'_'humidity'_'None of the above'}|{C}
+17. Pine, fir, larch and spruce are commonly found in|{'mangrove forest'_'equatorial forest'_'deciduous forest'_'coniferous forest'_'None of the above'}|{D}
+18. The major components of soil are?|{'texture, organic matter, water and air'_'organic matter, texture, structure and air'_'water, texture, nutrients and mineral.'_'water, air, mineral and organic matter'_'None of the above'}|{D}
+19. Soil forming process in the hot, humid tropics where rainfall and temperatures are high throughout the year is known as?|{'laterization'_'podzolization'_'calcification'_'salinization'_'None of the above'}|{A}
+20. An example of an atmospheric resource is?|{'coal'_'tin'_'water'_'petroleum'_'None of the above'}|{C}
+21. Igneous rocks are differentiated from sedimentary rocks by their?|{'shape and size'_'density and appearance'_'appearance and origin'_'area and density'_'None of the above'}|{c}
+22. The massive removal of tree and forest cover without replacement is referred to as?|{'afforestation'_'bush clearing'_'bush burning'_'deforestation'_'None of the above'}|{D}
+23. The total population of a country can be obtained from its?|{'National Census'_'birth and death rates'_'sample survey'_'birth rate'_'None of the above'}|{A}
+24. The most significant way the components of an ecosystem can be identified is that, there must be a degree of?|{'independent inter-relationship existing among them'_'complexity'_'reciprocal inter-relationship existing among them'_'adaptation'_'None of the above'}|{C}
+25. Which of the following terms relates population size to land?|{'Density'_'Census'_'Intensity'_'Demography'_'None of the above'}|{A}
+26. The problems of unemployment, housing, traffic congestion and environment degradation are associated with?|{'Industrial'_'Political disturbances'_'slums'_'Urbanization'_'None of the above'}|{D}
+27. Rural settlements are important to urban centres because they provide?|{'labour'_'road'_'transport'_'capital'_'None of the above'}|{A}
+28. Settlements that develop along communication routes are likely to be?|{'linear'_'oval'_'nucleated'_'dispersed'_'None of the above'}|{A}
+29. The greatest advantage of road transportation over other modes is that the former is?|{'cheaper'_'less risky'_'faster'_'more flexible'_'None of the above'}|{D}
+30. The best breeds of dairy cattle can be found in?|{'australia'_'asia'_'europe'_'South America'_'None of the above'}|{C}
+31. The greatest benefit of mixed farming is that?|{'the animals feed from crop farming.'_'the animals produce the manure for crop production'_'it combines the advantage of crop and animal husbandry'_'it is very cheap to practice'_'None of the above'}|{C}
+32. Which of the following is the busiest and most important world shipping route?|{'The Panama Canal route'_'The South Atlantic route'_'The Cape route'_'None of the above'}|{D}
+33. Which of the following groups of countries is a major producer of rubber?|{'Indonesia, Malaysia and Zimbabwe'_'Malaysia, Niger and Liberia.'_'South Africa, Liberia and China.'_'Malaysia, Liberia and Indonesia.'_'None of the above'}|{D}
+34. The greatest industrial areas of the world are|{'Western Europe and the United States of America'_'The Ruhr industrial region and South Africa'_'Africa and the Caribbean'_'Japan and Australia.'_'None of the above'}|{A}
+35. The Obudu Plateau is noted for its|{'tsetsefly infestation'_'cattle ranch'_'hot climate'_'waterfalls'_'None of the above'}|{B}
+36. Livestock rearing in Nigeria is still predominantly the occupation of|{'large-scale'_'nomadic herders'_'small holder farmers'_'sedentary rearers'_'None of the above'}|{B}
+37. Which of the following has the highest concentration of industries in Nigeria?|{'Kano'_'Kaduna'_'Lagos'_'Port-harcourt'_'None of the above'}|{C}
+38. The location of cement industry in Ewekoro, Nigeria is largely influenced by?|{'nearness to source of water'_'adequate transportation facilities'_'nearness to raw materials'_'government policy'_'None of the above'}|{C}
+39. <img src='files/images/geography39.png' height='400'><br> The soil type found in the area marked S is|{'allevial soil '_'sandy soil'_'laterite soil'_'loamy soil'_'None of the above'}|{A}
+40. <img src='files/images/geography40.png' height='400'><br> The area marked T is rich in?|{'iron ore'_'coal'_'limestone'_'tin'_'None of the above'}|{C}
+41. Which of the following winds is responsible for the dry season in Nigeria?|{'Tropical maritime airmass.'_'Tropical continental airmass. '_'Equatorial easterlies.'_'Harmattan'_'None of the above'}|{B}
+42. <img src='files/images/geography42.png' height='400'><br> The area marked Y is known as?|{'hunting and fishing'_'intensive subsistence'_'shifting cultivation'_'nomadic herding'_'None of the above'}|{D}
+43. The area marked K represents what type of vegetation?|{'Tropical rainforest'_'Savannah'_'Desert'_'Warm temperate forest'_'None of the above'}|{A}
+44. Which of the following groups is known for nomadic grazing?|{'The Akans of Ghana.'_'Hausas of Nigeria.'_'The Arabs of Algeria.'_'The Masai of Kenya. '_'None of the above'}|{D}
+45. Which of the following countries has gold as its major foreign exchange earner?|{'Nigeria'_'Tanzania'_'South Africa'_'Niger'_'None of the above'}|{C}
+46. Which of the following is the largest country in West Africa (by land mass)?|{'Nigeria'_'Niger'_'Mauritania'_'Mali'_'None of the above'}|{B}
+47. <img src='files/images/geography47.png' height='400'><br> The area marked P is|{'Botswana'_'Lesotho'_'Swaziland'_'Zambia'_'None of the above'}|{A}
+48. Which of the following rivers is an inland drainage?|{'River Nile'_'River Senegal'_'River Volta'_'River Hadejia'_'None of the above'}|{D}
+49. <img src='files/images/geography49.png' height='400'><br> The area marked Q is best known for mining of|{'Uranium'_'Zinc'_'Lead'_'Platinum'_'None of the above'}|{C}
+50. <img src='files/images/geography50.png' height='400'><br> The crop that will be most suitable for cultivation in the lower basin of River Madu is?|{'Rice'_'Coffee'_'Groundnut'_'Cotton'_'None of the above'}|{A}

@@ -1,0 +1,50 @@
+1. <img src='files/images/commerce1.jpg' height='200'> From the diagram above, what does I stand for?|{'Aids to trade'_'Publicity'_'Home trade'_'Advertising'}|{A}
+2. A core investor in the current phase of privatization in Nigeria is one who?|{' can afford to buy most of the shares of the enterprises'_'will be at the core of the enterprises'_' can mobilize foreign currency equivalent to the value of the enterprises'_'has the technical know-how of the enterprises'}|{A}
+3. The agency in Nigeria which ensures that products conform to government quality specifications is the?|{'Standards Organization of Nigeria'_'Standards Organization of Nigeria'_'Manufacturers’ Association of Nigeria'_'Nigerian Chamber of commerce'}|{A}
+4. Awarding scholarships and sponsoring sports by a business organization are example of?|{'advertising strategy'_'economic responsibility'_'marketing strategy'_'social responsibility'}|{D}
+5. The commercialization of public enterprises is aimed at.|{' increasing efficiency and making the enterprises self-sufficient'_'advertising and promoting the goods and services of the enterprises'_'increased assistance and patronage of the enterprises by the public'_' selling the goods and services of the enterprises'}|{A}
+6. An author’s exclusive right to his published and unpublished works is known as?|{'authors right'_'constitution right'_'patent right'_'copyright'}|{D}
+7. Under the endowment policy, the money handed over to the insured at the expiration of the stipulated time or at death is the?|{'indemnity'_'surrender value'_'lump sum benefit'_'insurance premium'}|{C}
+8. The machine used for sending telex messages is known as a?|{'radar'_'fax machine'_'dictaphone'_'teleprinter'}|{B}
+9. Which of these insurance principles requires a close connection between the actual loss suffered and the risk insured?|{'indemnity'_'proximate cause'_'Contribution'_'Subrogation'}|{B}
+10. The unit through which result of a processed data are displayed is the|{'logic unit'_'display unit'_'control unit'_'output unit'}|{D}
+11. Which of the following is used to inform the addressee that a registered parcel is ready for collection?|{'Express label'_'counter foil'_'telegram'_'slip'}|{D}
+12. The type of computer commonly found in office is?|{'laptop'_'desktop'_'the hybrid computer'_'the mainframe computer'}|{C}
+13. The mode of transporting crude oil to the ports for export purposes is by?|{'tanker'_'rail'_'road'_'pipeline'}|{D}
+14. The temporary insurance certificate issued to the insured before drawing up a policy is a?|{'cover note'_'testimonial'_'time policy'_'proposal form'}|{A}
+15. The bulls and bears in the Stock Exchange market help to minimize?|{'the number of shares and bonds sold'_'price increases of securities'_'fluctuation in the price os securities'_'the elasticity of the prices of securities'}|{C}
+16. Debentures differ from shares in that?|{'they are secured on the company's assets'_'ownership is open to the public'_'they form part of the capital of the business'_'rewards are usually paid out of profits'}|{A}
+17. The Stock Exchange is a market where?|{'long-term securities are sold'_'all types of securities are sold'_' short-term securities are sold'_'medium-term securities are sold'}|{B}
+18. A retail cooperative society aims at?|{'hoarding manufactured goods'_'cutting off the profit of the middlemen'_'lending money to members at a low interest rates'_'encouraging members to save money'}|{B}
+19. A bill of exchange already accepted can be discounted by the holder in?|{'the central bank'_'at least two banks'_'his bank'_'any bank'}|{D}
+20. The document issued by the seller which gives detail of the goods he sells is known as?|{' catalogue'_' tender'_'price list'_'invoice'}|{D}
+21. Given: i. Retail ii. Export iii. Transport iv. Import v. Insurance vi. Banking and finance vii. Wholesale viii Communication.Which of the above is aid to trade?|{'i, ii, iii and viii'_'iii, v, vi and viii'_'i, ii, iii and vi'_'ii, v, vi, and vii'}|{B}
+22. The organizational structure that relates the positions of specialist to the line mangers is called?|{'line structure'_'staff structure'_' line and staff structure'_'functional structure'}|{B}
+23. A wholesaler who possesses the title of goods he sells is known as?|{'a merchant wholesaler'_'a multiple wholesaler'_'a general wholesaler'_'an agent wholesaler'}|{A}
+24. An important principle of a good organization structure is?|{'ideal standard'_'span control'_'clarity of mission'_'adequacy resources'}|{B}
+25. A company that is registered with the corporate Affairs Commission only without being enlisted on the Stock Exchange is a?|{'public liability company'_'joint venture company'_'limited company'_'registered company'}|{D}
+26. A contract for the sale of goods involved the?|{'producer, seller and the buyer of goods'_' offering of goods to customers'_'transfering of the title to goods for money'_'exchange of goods'}|{C}
+27. The total of share capital which a company should be allowed to issued is known as?|{'called-up capital'_'paid-up capital'_'nominal capital'_' issued capital'}|{C}
+28. The process of mobilizing, engaging and maintaining workers to work for an organization is referred to as?|{'staffing'_'selection'_'recruitment'_'employment'}|{A}
+29. Recognized members of the Stock Exchange who buy and sell securities on their own behalf are known as?|{'bulls'_'jobbers'_'brokers'_'stags'}|{B}
+30. Which of the following involves foreign trade?|{'supermarket'_'Chain stores'_'Departmental stores'_'Commodity stores'}|{D}
+31. Which of the following is a function of employers’ associate?|{'undertaking research on behalf of employees'_'promotion of thrift in workers'_'promotion of workers'welfare'_'Dissemination of information through sponsored journals'}|{C}
+32. Which of the following industries is normally located near the source of its raw materials?|{'Footwear industry'_'Cement industry'_'Textile industry'_'Automobile assembly'}|{B}
+33. One of the most important function of marketing is?|{'encouraging research activitiesto meets needs'_'creating classes of merchant among businessmen'_'the extension of market for businessmen'_'providing finances to business'}|{A}
+34. Securities on which the buyers are not issued with certificate are called?|{'authorized securities'_'inscribed securities'_'bearer securities'_'registered securities'}|{B}
+35. In product pricing, which of this element needs more consideration than others?|{'the demand for the product'_'the demography of the buyers of the product'_'the economic conditions in the markets'_'the cost of producing the product'}|{D}
+36. The principal objectives of the Central Bank of Nigeria can be classified broadly into?|{' bankers' bank lender of last resort and issuance of currency'_'service, currency management and financial intermediation'_'banking services, foreign exchange operations and open markets operations'_'service, monetary policy and developmental functions'}|{A}
+37. The letters E and OE stand for?|{'errors of exception'_'errors and omissions expected'_'estimate and order error'_'end of error'}|{B}
+38. An important issue for consideration in the product element of the marketing mix is the?|{'adequate of the product'_'channel of diistribution of the product'_'price of the product'_'planning and development of the product'}|{D}
+39. A group of companies is a collection of?|{'subsidiaries and their holding company'_'firms'_'associates and their holding company'_'industries'}|{A}
+40. Which of the following is an example of trade associations?|{'European Union'_'National Marketing Board'_'Organization of African Unity'_'National Farmers' Council'}|{B}
+41. Which of the following is an determines the quality of goods and that a retailer sells?|{'the mode of contract of sales'_'the type of manufacturer'_'the regulations regarding sales in the area'_'the location of his shop'}|{B}
+42. An advantage of hire purchase to the consumer is the?|{'economies of scale in production'_'possession of goods before payment'_'increase in turnover and profit'_'low interest rate chargeable'}|{B}
+43. The founders' share are usually referred to as deferred shares because the holders?|{'are entitled to cumulative dividends'_'receive their dividends after other shareholders'_'receive their dividends before shareholders'_'are not entitled to any dividends'}|{B}
+44. An example of a service-rendering trade association is?|{' Nigeria Bar Association'_'Association of Nigeria Miners'_'Cocoa Farmers' Association'_'Manufacturers' Association of Nigeria'}|{A}
+45. An obstacle to international trade is?|{'trade imbalance between countries'_'availiability of local market'_'quantity and quality of labour'_'cost of finance'}|{D}
+46. The right of ownership with respect to goods or property is?|{'right of occupancy'_'proxy'_'title'_'certificate of occupancy'}|{D}
+47. The significance of money to modern economic system is that it?|{'is used as a means of payment'_'promotes specialization and exchange'_'measures value and promotes exchange'_'causes inflation in the economy'}|{C}
+48. One major characteristic of credit unions and thrift societies is that?|{'the legal processes involved in their formation are rigid'_'membership is compulsory to people in the same line of business'_'the contribution of every member depends on the member's ability'_'a minimum of ten people in the same line of business can form the union'}|{C}
+49. The Nigerian Stock Exchange publishes a daily official list that gives full information on the?|{'method of transation agreed to by members'_'number of participating members in a day'_'changes in the prices and earnings of securities'_'changes in the official rules set by the market'}|{C}
+50. The main factors that determine the value of a stock on the stock Exchange are dividend and?|{'the psychology of the market'_'capital gain'_'capital appreciation'_'warrant payment'}|{C}

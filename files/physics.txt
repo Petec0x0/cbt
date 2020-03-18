@@ -1,0 +1,50 @@
+1. 1kg of boiling water at 100°C is poured into an aluminium hot water bottle at 16°C. The temperature of the water quickly falls to 96°C. Assuming that there is no loss of heat, the mass of the bottle is?|{'0.25kg'_'0.5kg'_'0.05kg'_'0.75kg'_'0.85kg'}|{A}
+2. The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30° with the resultant, find its magnitude?|{'57.7N'_'25.0N'_'100.0N'_'43.3N'}|{D}
+3. When a brick is taken from the earth's surface to the moon, its mass?|{'Remains constant'_'Becomes zero'_'Reduces'_'Increases'_'Multiplies'}|{A}
+4. The pair of physical quantities that are scalar only are?|{'Volume and area'_'Impulse and time'_'Moment and momentum'_'Length and Displacement'_'Height and Altitude'}|{A}
+5. A simple pendulum of length 0.4m has a period 2s. What is the period of a similar pendulum of length 0.8m at the same place?|{'2√2s'_'√2s'_'8s'_'4s'_'16s'}|{A}
+6. A train with an initial velocity of 20ms-<sup>1</sup> is subjected to a uniform deceleration of 2ms-<sup>2</sup>. The time required to bring the train to a complete halt is?|{'10s'_'40s'_'5s'_'20s'_'50s'}|{A}
+7. Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms-<sup>2</sup>. |{'105N'_'686N'_'595N'_'581N'_'0N'}|{A}
+8. A piece of cork floats in a liquid. What fraction its volume will be immersed in the liquid? [density of the cork = 0.25 × 103kgm-<sup>3</sup>, Density of the liquid = 1.25 × 103kgm-<sup>3</sup>]|{'0.2'_'0.1'_'0.8'_'0.5'_'0.7'}|{A}
+9. An object is moving with a velocity of 5ms-<sup>1</sup>. At what height must a similar body be situated to have a potential energy equal in value with the kinetic energy of the moving body? [g ≈ 10ms-<sup>2</sup>]|{'1.3m'_'25.0m'_'1.0m'_'20.0m'_'23.0m'}|{A}
+10. If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 min, the power of the pump is?|{'3.3 × 10<sup>3</sup> Js-1'_'2.5 × 10<sup>4</sup> Js-1'_'2.5 × 10<sup>5</sup> Js-1'_'2.3 × 10<sup>3</sup> Js-1'_' 4.5 × 10<sup>3</sup> Js-1'}|{A}
+11. The coefficient of friction between two perfectly smooth surface is?|{'Infinity'_'One'_'Half'_'Zero'_'Two'}|{D}
+12. A piece of radioactive material contains 1000 atoms. If its half-life is 20 seconds, the time taken for 125 atoms to remain is?|{'40 seconds'_'20 seconds'_'60 seconds'_'80 seconds'_'30 seconds'}|{C}
+13. Calculate the work done, when a force of 20N stretches a spring by 50mm.|{'0.5 J'_'2.5 J'_'1.5 J'_'2.0 J'_'1.0 J'}|{A}
+14. At what depth below the sea-level would one experience a change of pressure equal to one atmosphere?|{'10.0 m'_'1.0 m'_'100.0 m'_'0.1 m'_''}|{A}
+15. What volume of alcohol will have the same mass as 4.2m<sup>3</sup> of petrol? [Density of alcohol = 8.4 × 102kgm-<sup>3</sup>, Density of petrol = 7.2 × 102 kgm-<sup>3</sup>]|{'3.6 m<sup>3</sup>'_'1.4 m<sup>3</sup>'_'1.8 m<sup>3</sup>'_'4.9 m<sup>3</sup>'_'1.0 m<sup>3</sup>'}|{A}
+16. Calculate the length which corresponds to a temperature of 200°C if the ice and steam points of an ungraduated thermometer are 400 mm apart.|{'60mm'_'30mm'_'20mm'_'80mm'_'10mm'}|{D}
+17. A wire of length 100.0m at 300C has a linear expansivity of 2 × 10-5K-1. Calculate the length of the wire at a temperature of -100C?|{'99.92m'_'100.08m'_'100.04m'_'99.96m'_'80.01m'}|{A}
+18. A gas at a pressure of 105Nm<sup>2</sup> expands from 0.6m<sup>3</sup> to 1.2m<sup>3</sup> at constant temperature, the work done is?|{'6.0 × 10<sup>4</sup> J'_'7.0 × 10<sup>7</sup> J'_'6.0 × 10<sup>6</sup> J'_'6.0 × 10<sup>5</sup> J'_'1.5 × 10<sup>1</sup> J'}|{A}
+19. Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is?|{'2 : 1'_'1 : 4'_'1 : 2'_'4 : 1'_'5 : 2'}|{C}
+20. Foods cook quicker in salt water than in pure water because of the effect of?|{'Dissolved substances on the boiling point'_'Salt on thermal the conductivity of water'_'Atmosphere pressure on the boiling point'_'Food nutrients on the thermal energy'_'Food nutrients on the gravitational pull'}|{A}
+21. In storing magnets, keepers are used to|{'reduced self-demagnetization'_'cancel the effect of the earth's magnetic field'_'protect the magnet from stray electric field'_'increase the strangth of the magnets'}|{A}
+22. What will happen to the boiling point of pure water when it is heated in a place 30m below the sea level?|{'It will be more than 100°C'_'It will be fluctuating'_'It will be less than 100°C'_'It will still be at 100°C'_'It will still be at 100°F'}|{A}
+23. The rise or fall of a liquid in a narrow tube is because of the?|{'surface tension of the liquid'_'osmotic pressure of the liquid'_'viscosity of the liquid'_'friction between the walls of the tube and the liquid'_'texture of the liquid'}|{A}
+24. The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is?|{'conduction'_'diffusion'_'convection'_'radiation'_'evaporation'}|{A}
+25. A wave that travels through stretched strings is known as?|{'microwave'_'mechanical wave'_'electromagnetic waves'_'seismic wave'_'potential wave'}|{B}
+26. A transverse wave and a longitudinal wave traveling in the same direction in a medium differ essentially in their?|{'direction of vibration of the particles of the medium'_'period of vibration of the particles of the medium'_'frequency'_'amplitude'_'altitude'}|{A}
+27. What is the velocity of sound at 100oC if the velocity of sound at 0oC is 340ms-<sup>1</sup>|{'497ms-<sup>1</sup>'_'440ms-<sup>1</sup>'_'397ms-<sup>1</sup>'_'240ms-<sup>1</sup>'_'200ms-<sup>1</sup>'}|{C}
+28. If a sonometer has a fundamental frequency of 450Hz, what is the frequency of the fifth overtone?|{'456Hz'_'75Hz'_'2700Hz'_'444Hz'_'100Hz'}|{C}
+29. A man 1.5m tall is standing 3m in front of a pinhole camera whose distance between the hole and the screen is 0.1m. What is the height of the image of the man on the screen?|{'0.05m'_'1.00m'_'0.15m'_'0.30m'_'0.01m'}|{A}
+30. A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at?|{'0 degrees'_'180 degrees'_'45 degrees'_'90 degrees'_'270 degrees'}|{A}
+31. Which of the following particles CANNOT be deflected by both electric and magnetic fields?|{'Gamma rays'_'alpha particles'_'wave particles'_'beta particles'_'micro wave'}|{A}
+32. The process of detecting a pin mistakenly swallowed by a child is X-ray?|{'mammography'_'Therapy'_'Crystallography'_'Diagnosis'_'photography'}|{D}
+33. Total internal reflection will not occur when light travels from?|{'glass into water'_'water into glass'_'water to air'_'glass to air'_'air into glass'}|{B}
+34. If the linear magnification of the objective and eyepiece are 4 and 7 respectively, calculate the angular magnification of the microscope.|{'28'_'2'_'3'_'11'_'9'}|{A}
+35. The angle of deviation of light of various colours passing through a triangular prism increases in the order?|{'red → green → blue'_'blue → green → red'_'green → violet → blue'_'blue → red → green'_'yellow → red → green'}|{A}
+36. Calculate the force acting on an electron of charge 1.5 × 10<sup>-19</sup>C placed in an electric field of intensity 105Vm<sup>-1</sup>.|{'1.5 × 10<sup>-14</sup>N'_'1.5 × 10<sup>-11</sup>N'_'1.5 × 10<sup>-12</sup>N'_'1.5 × 10<sup>-13</sup>N'}|{A}
+37. Capacitors are used in the induction coil to?|{'control circuits'_'dissipate energy'_'prevent eletric sparks'_'prevent distortion of electric fields'_'induct circuits'}|{C}
+38. A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell.|{'3.0 Ω'_'1.0 Ω'_'4.0 Ω'_'1.5 Ω'_'3.5 Ω'}|{C}
+39. Which of the following obeys ohms law?|{'Metals'_'Glectroytes'_'Glass'_'Diode'_'Triode'}|{A}
+40. A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is ₦5?|{'₦50'_'₦90'_'₦20'_'₦45'_'₦100'}|{D}
+41. The net charge on the atom is zero because?|{'the electrons and the protons that are charged are in the nucleus'_'the total charge on the electrons is equal to the total charge on the neutrons'_'the neutrons from a shield around the charged protons'_'the neutrons from a shield around the charged protons'_'A and B above'}|{C}
+42. An electric device is rated 2000W, 250V. Calculate the maximum current it can take.|{'7A'_'6A'_'8A'_'9A'_'5A'}|{C}
+43. When a charge moves through an electronic circuit in the direction of an electric force, it|{'loses potential energy and gains kinetic energy'_'gains potential energy and loses kinetic energy'_'gains both potential and kinetic energy'_'loses both potential and kinetic energy'_'D and C above'}|{A}
+44. To convert a galvanometer to a voltmeter, a|{'high resistance is connected to it in series'_'low resistance is connected to it in parallel'_'high resistance is connected to it in parallel'_'low resistance is connected to it in series'_'none of the above'}|{A}
+45. Induced emfs are best explained using?|{'Faraday's law'_'coulomb's law'_'ohm's law'_'lenz's law'_'none of the above'}|{A}
+46. If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?|{'4.8g'_'4.6g'_'4.2g'_'3.2g'_'2.4g'}|{C}
+47. The bond between silicon and germanium is?|{'covalent'_'trivalent'_'dative'_'ionic'_'chemical'}|{A}
+48. Calculate the energy of the third level of an atom if the ground state energy is -24.8eV?|{'-2.75eV'_'-8.20eV'_'-9.20eV'_'-1.75eV'_'-2.00eV'}|{A}
+49. In photo-emission, the number of photoelectrons ejected per second depends on the?|{'Intensity of the beam'_'Frequency of the beam'_'Work function of the metal'_'Threshold frequency of the metal'_'Threshold funcction of the metal'}|{A}
+50. The particle nature of light is demonstrated by the?|{'photoeletric effect'_'diffraction of light'_'speed of light'_'colours of light'_'reflection of light'}|{A}
